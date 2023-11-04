@@ -1,3 +1,6 @@
-- Yo, I am fantomswrld, a young programmer currently learning web development 💻
-- Currently I am just doing it as a side hussle but will look to take it more seriously when I have finished high school 🏫
-- To get in contact with me you can email me at officialfantomwrld@gmail.com 📩
+👋 Hello, I'm fantomswrld
+💻 Aspiring programmer on a journey to master the digital world
+🌐 Open source enthusiast, eagerly exploring and contributing
+🚀 Building cool projects while learning the ropes, one commit at a time
+📚 High school student and lifelong learner, constantly expanding my tech stack
+📫 Reach out at officialfantomwrld@gmail.com
