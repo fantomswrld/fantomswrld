@@ -1,6 +1,5 @@
-👋 Hello, I'm fantomswrld
-💻 Aspiring programmer on a journey to master the digital world
-🌐 Open source enthusiast, eagerly exploring and contributing
-🚀 Building cool projects while learning the ropes, one commit at a time
-📚 High school student and lifelong learner, constantly expanding my tech stack
+👋 Hey, I am Fantom
+💻 Aspiring programmer who wants to explore the world of creation
+🌐 I love the idea of being able to create what I want, however I want
+📚 High school student
 📫 Reach out at officialfantomwrld@gmail.com
